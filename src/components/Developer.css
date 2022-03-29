@@ -1,0 +1,14 @@
+
+.devName {
+    margin-bottom: 15px;
+    font-size: 35px;
+    border-bottom: 1px solid white;
+}
+.devAge {
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+.devCountry {
+    margin-bottom: 15px;
+    font-size: 30px;
+}
